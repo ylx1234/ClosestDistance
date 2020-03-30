@@ -1,0 +1,4 @@
+﻿  源.c
+d:\算法\作业5\closestdistance\closestdistance\源.c(4): warning C4005: “min”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(1290): note: 参见“min”的前一个定义
+  ClosestDistance.vcxproj -> D:\算法\作业5\ClosestDistance\Debug\ClosestDistance.exe
